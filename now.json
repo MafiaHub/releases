@@ -1,0 +1,9 @@
+{
+    "name": "releases",
+    "version": 2,
+    "scope": "mafiahub",
+    "alias": ["releases.mafiahub.dev"],
+    "env": {
+        "GITHUB_TOKEN": "@gh-token"
+    }
+}
